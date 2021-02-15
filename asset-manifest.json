@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/JB-Website/static/css/main.11923cb9.chunk.css",
+    "main.js": "/JB-Website/static/js/main.7309ea49.chunk.js",
+    "main.js.map": "/JB-Website/static/js/main.7309ea49.chunk.js.map",
+    "runtime-main.js": "/JB-Website/static/js/runtime-main.82a65bc4.js",
+    "runtime-main.js.map": "/JB-Website/static/js/runtime-main.82a65bc4.js.map",
+    "static/js/2.58f69963.chunk.js": "/JB-Website/static/js/2.58f69963.chunk.js",
+    "static/js/2.58f69963.chunk.js.map": "/JB-Website/static/js/2.58f69963.chunk.js.map",
+    "static/js/3.cf650d4d.chunk.js": "/JB-Website/static/js/3.cf650d4d.chunk.js",
+    "static/js/3.cf650d4d.chunk.js.map": "/JB-Website/static/js/3.cf650d4d.chunk.js.map",
+    "index.html": "/JB-Website/index.html",
+    "static/css/main.11923cb9.chunk.css.map": "/JB-Website/static/css/main.11923cb9.chunk.css.map",
+    "static/js/2.58f69963.chunk.js.LICENSE.txt": "/JB-Website/static/js/2.58f69963.chunk.js.LICENSE.txt",
+    "static/media/Arrow_.b113f63d.webp": "/JB-Website/static/media/Arrow_.b113f63d.webp",
+    "static/media/BlobLife Demo.38a2813b.mp4": "/JB-Website/static/media/BlobLife Demo.38a2813b.mp4",
+    "static/media/Bloblife_screenshot.ab5f8ba6.webp": "/JB-Website/static/media/Bloblife_screenshot.ab5f8ba6.webp",
+    "static/media/DavisList Demo.a35595c8.mp4": "/JB-Website/static/media/DavisList Demo.a35595c8.mp4",
+    "static/media/Download_.75ab12ff.webp": "/JB-Website/static/media/Download_.75ab12ff.webp",
+    "static/media/Jackson Beytebiere-Software Engineer-2021.3064a43f.pdf": "/JB-Website/static/media/Jackson Beytebiere-Software Engineer-2021.3064a43f.pdf",
+    "static/media/PeoplePagesDemo.76da07b3.mp4": "/JB-Website/static/media/PeoplePagesDemo.76da07b3.mp4",
+    "static/media/davislist_poster.605bc974.webp": "/JB-Website/static/media/davislist_poster.605bc974.webp",
+    "static/media/pp_ScreenShot.35af8ee8.webp": "/JB-Website/static/media/pp_ScreenShot.35af8ee8.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82a65bc4.js",
+    "static/js/2.58f69963.chunk.js",
+    "static/css/main.11923cb9.chunk.css",
+    "static/js/main.7309ea49.chunk.js"
+  ]
+}
