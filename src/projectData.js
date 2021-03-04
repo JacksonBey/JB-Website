@@ -8,7 +8,7 @@ import dlPoster from './image/davislist_poster.webp'
 const projectData = [
     {
         title:'People Pages',
-        description:'Inspired by the functionality of Facebook and the simplicity of Twitter, PeoplePages is a fully-functional social media website. Users can add friends, message, post and even upload images! PeoplePages was made using React.js and Ruby on Rails. All CSS was written from scratch.',
+        description:'Inspired by the functionality of Facebook and the simplicity of Twitter, PeoplePages is a fully-functional social media website. Users can add friends, message, post and even upload images! PeoplePages was made using React.js and Ruby on Rails. All CSS was written from scratch. (Hosted on Heroku. Website may take ~40 seconds to load the first time)',
         githubURL:'https://github.com/JacksonBey/PeoplePages_Frontend',
         hostedLink:'https://peoplepages.herokuapp.com/',
         videoSRC: ppdemo,
@@ -16,7 +16,7 @@ const projectData = [
     },
     {
         title:'BlobLife',
-        description:'A 2D platforming game made with vanilla Javascript. BlobLife features three challenging levels and 6 unique Blobs to choose from, each with their own stats. Blobs can die to lava or falling from too far of a distance. Once all lives are lost its game over and the player must restart. Press the escape key to pause.',
+        description:'A 2D platforming game made with vanilla Javascript. BlobLife features three challenging levels and 6 unique Blobs to choose from, each with their own stats. Blobs can die to lava or falling from too far of a distance. Once all lives are lost its game over and the player must restart. Press the escape key to pause.  (Hosted on Heroku. Website may take ~40 seconds to load the first time)',
         githubURL:'https://github.com/MullaN/BlobLife',
         hostedLink:'https://jacksonbey.github.io/BlobLife-Frontend/',
         videoSRC: bldemo,
@@ -24,7 +24,7 @@ const projectData = [
     },
     {
         title:'DavisList',
-        description:'A Craigslist like website where users can make job listings, furniture sales, etc. Users can make accounts, message about listings, save posts and leave comments. Constructed using Ruby on Rails.',
+        description:'A Craigslist like website where users can make job listings, furniture sales, etc. Users can make accounts, message about listings, save posts and leave comments. Constructed using Ruby on Rails. (Hosted on Heroku. Website may take ~40 seconds to load the first time)',
         githubURL:'https://github.com/JacksonBey/DavisList',
         hostedLink:'https://davislist.herokuapp.com/',
         videoSRC: dldemo,
